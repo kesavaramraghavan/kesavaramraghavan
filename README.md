@@ -58,39 +58,41 @@ class KesavaRamRaghavan:
 ## 🗺️ Career Journey
 
 ```
+
+🌐 Global Experience: 🇺🇸 United States · 🇮🇳 India · 🇺🇾 Uruguay
+
 2026 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-         🔵 Capgemini │ AI Platform Engineer            [May 2025 – Present]
+    🇺🇸   🔵 Capgemini │ AI Platform Engineer           [May 2025 – Present]
             ┣━ Cloud-native RAG platform (vector search + semantic retrieval)
             ┣━ Multi-agent AI assistant (LangChain + Azure OpenAI)
             ┗━ AI smart product recommendation engine (hybrid retrieval)
 
 2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-         📚 UIUC │ MS Business Analytics               [Aug 2024 – May 2025]
+    🇺🇸   📚 UIUC │ MS Business Analytics               [Aug 2024 – May 2025]
          🟡 C-Neutral.io (Coursework) │ LLM Engineer   [Aug 2024 – May 2025]
             ┣━ Semantic search + binary classification for LLM accuracy
             ┗━ Atomic decomposition & RAG with vector similarity + fine-tuning
 
 2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-         🟢 Tata Consultancy Services │ Data Engineer & DevOps Admin
-            [Apr 2022 – Jul 2024]
+    🇺🇾   🟢 Tata Consultancy Services │ Data Engineer & DevOps Admin
+            [Apr 2022 – Aug 2024]
             ┣━ Scalable Informatica & Python workflows for high-volume data
             ┣━ API integration with ServiceNow for automated user onboarding
             ┗━ CI/CD automation using Jenkins & GitHub Actions
 
 2022 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-         🟢 Tata Consultancy Services │ Data Engineer & DevOps Admin
-            [Nov 2020 – Mar 2022]
+    🇮🇳   🟢 Tata Consultancy Services │ Data Engineer & DevOps Admin
+            [Nov 2020 – Mar 2022] 🇮🇳 India
             ┣━ ETL pipelines: raw → transform → process → target
             ┗━ Zapier-based workflow automation with business stakeholders
                for routine task handoffs and cross-team coordination
 
 2020 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-         🔴 Tata Consultancy Services │ ML Intern       [Jan 2020 – Mar 2020]
+    🇮🇳   🔴 Tata Consultancy Services │ ML Intern       [Jan 2020 – Mar 2020]
             ┗━ NLP QA model using QANet + BERT for passage-based Q&A
 
 2016 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-         📚 Bannari Amman Institute of Technology │ BE Mechatronics
-         📚 University of Illinois Urbana-Champaign │ MS Business Analytics
+    🇮🇳   📚 Bannari Amman Institute of Technology │ BE Mechatronics
 ```
 
 ---
