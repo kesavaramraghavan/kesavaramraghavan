@@ -6,7 +6,7 @@
 
 <!-- ══════════════════════ TYPING ANIMATION (direct URL — no shortlink) ══════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=50&lines=🤖+Building+Production-Grade+AI+Systems;🧠+RAG+Pipelines+%7C+Multi-Agent+Architectures;⚡+LLM+Evaluation+%7C+Inference+Optimization;☁️+Cloud-Native+MLOps+on+Azure+%7C+AWS+%7C+GCP;🚀+Turning+AI+Research+into+Real+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Systems;RAG+Pipelines+%7C+Multi-Agent+Architectures;LLM+Evaluation+%7C+Inference+Optimization;Cloud-Native+MLOps+on+Azure+%7C+AWS+%7C+GCP;Turning+AI+Research+into+Real+Products" />
 
 <br/>
 
@@ -49,7 +49,7 @@ class KesavaRamRaghavan:
         return "I'm building AI solutions that turn complex business challenges into streamlined, intelligent automation. ⚡"
 ```
 
-> *Great AI is not just about training models : it's about creating systems that are practical, scalable, maintainable, and valuable in the real world..*
+> *Great AI is not just about training models: it's about creating systems that are practical, scalable, maintainable, and valuable in the real world..*
 
 ---
 
@@ -208,8 +208,10 @@ Raw ingestion → feature engineering → model deployment → drift detection. 
 <div align="center">
 
 <a href="https://github.com/kesavaramraghavan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kesavaramraghavan&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=a8b2d8&hide_border=false&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesavaramraghavan&layout=compact&theme=github_dark&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=a8b2d8&hide_border=false&langs_count=8" />
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=kesavaramraghavan&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d8&icon_color=00d4ff&hide_border=true&cache_seconds=1800" />
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesavaramraghavan&layout=compact&theme=github_dark&bg_color=0d1117&title_color=00d4ff&text_color=a8b2d8&hide_border=true&langs_count=8&cache_seconds=1800" />
 </a>
 
 <br/><br/>
@@ -289,19 +291,22 @@ Raw ingestion → feature engineering → model deployment → drift detection. 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                    PRODUCTION IMPACT                         ║
-╠══════════════════════╦═══════════════════════════════════════╣
-║  ⚡ 60%              ║  Faster release cycles via CI/CD      ║
-╠══════════════════════╬═══════════════════════════════════════╣
-║  📈 20%              ║  Improved recommendation relevance    ║
-╠══════════════════════╬═══════════════════════════════════════╣
-║  📈 20%              ║  Data pipeline efficiency gains       ║
-╠══════════════════════╬═══════════════════════════════════════╣
-║  🚀 5+               ║  Years in data & platform engineering ║
-╠══════════════════════╬═══════════════════════════════════════╣
-║  🧠 3+               ║  Years in production AI systems       ║
-╚══════════════════════╩═══════════════════════════════════════╝
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                         PRODUCTION IMPACT                            ║
+╠══════════════════════╦═══════════════════════════════════════════════╣
+║ ⚡ CI/CD Automation  ║ Streamlined deployment and release workflows │║
+╠══════════════════════╬═══════════════════════════════════════════════╣
+║ 🧠 AI & LLM Systems  ║ Built scalable RAG and multi-agent pipelines │║
+╠══════════════════════╬═══════════════════════════════════════════════╣
+║ ☁️ Cloud Platforms   ║ Azure, AWS & Kubernetes deployments          │║
+╠══════════════════════╬═══════════════════════════════════════════════╣
+║ 🔁 Data Pipelines    ║ Automated ETL and workflow orchestration     │║
+╠══════════════════════╬═══════════════════════════════════════════════╣
+║ 🚀 Experience        ║ 5+ years in platform & data engineering      │║
+╠══════════════════════╬═══════════════════════════════════════════════╣
+║ 🤖 Applied AI        ║ 3+ years building production AI systems      │║
+╚══════════════════════╩═══════════════════════════════════════════════╝
 ```
 
 </div>
